@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Research Assistant"
   company = "Tencent-CUHK Shenzhen Joint Lab"
-  company_url = ""
+  company_url = "https://tencentlab.cuhk.edu.cn/en"
   location = "Shenzhen"
   date_start = "2018-09-01"
   date_end = ""

@@ -33,7 +33,7 @@ education:
     - course: PhD
       institution: The Chinese University of Hong Kong
       year: ""
-    - course: Computer Science
+    - course: B.Eng. in Computer Science
       institution: Huazhong University of Science and Technology
       year: ""
 email: szrlee@gmail.com
