@@ -1,7 +1,7 @@
 ---
 title: Yingru Li
 role: Ph.D. Student
-avatar_filename: yrli-shaw-dinner.png
+avatar_filename: yrli.png
 organizations:
   - name: The Chinese University of Hong Kong, Shenzhen, China
     url: https://www.cuhk.edu.cn/en

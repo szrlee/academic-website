@@ -7,6 +7,7 @@ weight = 130  # Order that this section will appear.
 
 title = "Contact"
 subtitle = ""
+author = "admin"
 
 # Automatically link email and phone?
 autolink = true
