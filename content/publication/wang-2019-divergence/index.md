@@ -18,5 +18,10 @@ the reuse of off-policy data becomes necessary, our method can achieve better
 performance than other state-of-the-art deep reinforcement learning algorithms."
 featured: true
 publication: "*Advances in Neural Information Processing Systems*"
+links:
+  - icon_pack: fas
+    icon: fa-file-pdf
+    name: PDF
+    url: 'Divergence_Augmented_Policy_Optimization.pdf'
 ---
 

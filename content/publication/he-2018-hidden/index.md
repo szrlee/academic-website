@@ -7,5 +7,10 @@ publication_types: ["2"]
 abstract: "This paper introduces a new graph-theoretical concept of hidden community for analyzing complex networks, which contain both stronger or dominant communities and weak communities.The weak communities are termed as being with the hidden community structure if most of its members also belong to the stronger communities. We propose a meta-approach, namely HICODE (HIdden COmmunity DEtection),for identifying the hidden community structure as well as enhancing the detection of the dominant community structure.Extensive experiments on real-world networks are carried out and the obtained results demonstrate that HICODE outperforms several state-of-the-art community detection methods interms of uncovering both the dominant and the hidden structure. Due to the difficulty of labeling all ground truth communities in real-world datasets, HICODE provides a promising technique top in point the existing latent communities and uncover communities for which there is no ground truth.Our finding in this work is significant to detect hidden communities in complex social networks"
 featured: false
 publication: "*Information Sciences*"
+links:
+  - icon_pack: fas
+    icon: fa-file-pdf
+    name: PDF
+    url: 'Journal-InfoSci1801-HICODE.pdf'
 ---
 
