@@ -29,5 +29,10 @@ links:
     icon: zhihu
     name: Chinese Blog
     url: ''
+
+tags:
+  - Reinforcement Learning
+  - Off-policy
+  - Policy Optimization
 ---
 
