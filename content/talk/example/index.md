@@ -3,7 +3,7 @@ title: Example Talk
 event: Academic Theme Conference
 event_url: https://example.org
 
-location: Source Themes HQ
+location: Some place in the earth
 address:
   street: 450 Serra Mall
   city: Stanford
@@ -37,7 +37,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/RichardYRLi
 url_code: ""
 url_pdf: ""
 url_slides: ""
