@@ -3,7 +3,7 @@ title: Yingru Li
 role: Ph.D. Student
 avatar_filename: avatar.png
 organizations:
-  - name: The Chinese University of Hong Kong
+  - name: The Chinese University of Hong Kong, Shenzhen, China
     url: https://www.cuhk.edu.cn/en
 superuser: true
 authors:
@@ -12,9 +12,9 @@ bio: My research interests include reinforcement learning and optimization
   theory and algorithms with application to multi-agent learning and robotics
   control.
 interests:
-  - Reinforcement Learning
-  - Optimization
-  - Learning Theory
+  - Reinforcement Learning theory and algorithms
+  - Online (bandit) learning and optimization
+  - Applications in multi-agent learning, robotic control, etc.
 social:
   - icon: twitter
     icon_pack: fab
@@ -30,7 +30,7 @@ social:
     link: www.linkedin.com/in/richardyrli
 education:
   courses:
-    - course: PhD
+    - course: Ph.D. student
       institution: The Chinese University of Hong Kong
       year: ""
     - course: B.Eng. in Computer Science
