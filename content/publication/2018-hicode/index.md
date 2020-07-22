@@ -8,9 +8,9 @@ abstract: "This paper introduces a new graph-theoretical concept of hidden commu
 featured: false
 publication: "*Information Sciences*"
 links:
-  - icon_pack: fas
-    icon: fa-file-pdf
-    name: PDF
-    url: 'Journal-InfoSci1801-HICODE.pdf'
+  - icon_pack: fab
+    icon: github-square
+    name: Github-repo
+    url: 'https://github.com/JHL-HUST/HiCode'
 ---
 

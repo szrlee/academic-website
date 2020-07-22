@@ -20,8 +20,12 @@ featured: true
 publication: "*Advances in Neural Information Processing Systems*"
 links:
   - icon_pack: fas
-    icon: fa-file-pdf
+    icon: file-pdf
     name: PDF
-    url: 'Divergence_Augmented_Policy_Optimization.pdf'
+    url: '2019-dapo'
+  - icon_pacl: fab
+    icon: github-square
+    name: Github-repo
+    url: 'https://github.com/lns/dapo'
 ---
 
