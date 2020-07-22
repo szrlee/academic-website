@@ -10,7 +10,7 @@ publication: "*Information Sciences*"
 links:
   - icon_pack: fab
     icon: github-square
-    name: Github-repo
+    name: Code
     url: 'https://github.com/JHL-HUST/HiCode'
 ---
 

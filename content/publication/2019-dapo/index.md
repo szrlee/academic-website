@@ -19,13 +19,9 @@ performance than other state-of-the-art deep reinforcement learning algorithms."
 featured: true
 publication: "*Advances in Neural Information Processing Systems*"
 links:
-  - icon_pack: fas
-    icon: file-pdf
-    name: PDF
-    url: '2019-dapo'
-  - icon_pacl: fab
+  - icon_pack: fab
     icon: github-square
-    name: Github-repo
+    name: Code
     url: 'https://github.com/lns/dapo'
 ---
 
