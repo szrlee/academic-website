@@ -1,6 +1,6 @@
 ---
 title: "Divergence-Augmented Policy Optimization"
-date: 2019-12
+date: 2019-12-01
 publishDate: 2020-07-21T23:34:42.027296Z
 authors: ["Qing Wang", "Yingru Li", "Jiechao Xiong", "Tong Zhang"]
 publication_types: ["1"]
