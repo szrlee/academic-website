@@ -27,8 +27,7 @@ links:
     url: 'poster-dapo.pdf'
   - icon_pack: fab
     icon: zhihu
-    name: Chinese Blog
-    url: ''
+    url: 'https://zhuanlan.zhihu.com/p/122663529'
 
 tags:
   - Reinforcement Learning
