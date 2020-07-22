@@ -23,5 +23,11 @@ links:
     icon: github-square
     name: Code
     url: 'https://github.com/lns/dapo'
+  - name: Poster
+    url: 'poster-dapo.pdf'
+  - con_pack: fab
+    icon: zhihu
+    name: Chinese Blog
+    url: ''
 ---
 

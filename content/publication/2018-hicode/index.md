@@ -12,5 +12,16 @@ links:
     icon: github-square
     name: Code
     url: 'https://github.com/JHL-HUST/HiCode'
+
+tags:
+  - Social Networks
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: 'Hidden community structure'
+  focal_point: ""
+  preview_only: false
+
 ---
 

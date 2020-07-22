@@ -27,7 +27,7 @@ social:
     link: https://github.com/szrlee
   - icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/richardyrli
+    link: https://www.linkedin.com/in/richardyrli
 education:
   courses:
     - course: Ph.D. student
