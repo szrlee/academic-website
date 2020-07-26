@@ -40,11 +40,12 @@ email: szrlee@gmail.com
 user_groups:
   - ""
 ---
+
 Mr. Yingru Li is a Ph.D. student of the Chinese University of Hong Kong, Shenzhen,
 where he is co-advised by
 [Tong Zhang](http://tongzhang-ml.org) (HKUST) and
 [Tom Zhi-Quan Luo](https://scholar.google.com/citations?user=dW3gcXoAAAAJ).
-He received the Bachelor of Engineering from *ACM Honor CS Class* advised by [Kun He](http://faculty.hust.edu.cn/hekun/en/) in [School of Computer Science](http://english.cs.hust.edu.cn/) at Huazhong University of Science and Technology.
+He received the Bachelor of Engineering from _ACM Honor CS Class_ advised by [Kun He](http://faculty.hust.edu.cn/hekun/en/) in [School of Computer Science](http://english.cs.hust.edu.cn/) at Huazhong University of Science and Technology.
 He was invited to Cornell University by **[John E. Hopcroft](http://www.cs.cornell.edu/jeh/)** and for exchange study and research on algorithms design and theoretical analysis for social network problems.
 He is a member of Shaw College, CUHK, Shenzhen.
 His research is supported by Presidential Fellowship and [Tencent Ph.D. fellowship](https://ai.tencent.com/ailab/en/index).

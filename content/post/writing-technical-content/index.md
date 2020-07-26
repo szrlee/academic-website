@@ -5,10 +5,10 @@ lastMod: 2020-07-23
 math: true
 diagram: true
 authors:
-- Nelson Bighetti
+  - Nelson Bighetti
 image:
   placement: 3
-  caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
+  caption: "Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)"
 # Enable source code highlighting? true/false
 # Documentation: https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
 highlight: true
@@ -44,13 +44,13 @@ data.head()
 
 Academic supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the `math` option in your `config/_default/params.toml` file.
 
-To render *inline* or *block* math, wrap your LaTeX math with `$...$` or `$$...$$`, respectively.
+To render _inline_ or _block_ math, wrap your LaTeX math with `$...$` or `$$...$$`, respectively.
 
 Example **math block**:
 
-```latex
-$$\gamma_{n} = \frac{ 
-\left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T 
+```tex
+$$\gamma_{n} = \frac{
+\left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T
 \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}
 {\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
 ```
@@ -63,14 +63,14 @@ Example **inline math** `$\nabla F(\mathbf{x}_{n})$` renders as $\nabla F(\mathb
 
 Example **multi-line math** using the `\\\\` math linebreak:
 
-```latex
+```tex
 $$f(k;p_0^*) = \begin{cases} p_0^* & \text{if }k=1, \\\\
 1-p_0^* & \text {if }k=0.\end{cases}$$
 ```
 
 renders as
 
-$$f(k;p_0^*) = \begin{cases} p_0^* & \text{if }k=1, \\\\
+$$
 1-p_0^* & \text {if }k=0.\end{cases}$$
 
 ### Diagrams
@@ -288,15 +288,16 @@ Academic enables you to use a wide range of [icons from _Font Awesome_ and _Acad
 Here are some examples using the `icon` shortcode to render icons:
 
 ```markdown
-{{</* icon name="terminal" pack="fas" */>}} Terminal  
-{{</* icon name="python" pack="fab" */>}} Python  
+{{</* icon name="terminal" pack="fas" */>}} Terminal
+{{</* icon name="python" pack="fab" */>}} Python
 {{</* icon name="r-project" pack="fab" */>}} R
 ```
 
 renders as
 
-{{< icon name="terminal" pack="fas" >}} Terminal  
-{{< icon name="python" pack="fab" >}} Python  
+{{< icon name="terminal" pack="fas" >}} Terminal
+{{< icon name="python" pack="fab" >}} Python
 {{< icon name="r-project" pack="fab" >}} R
 
 ### Did you find this page helpful? Consider sharing it 🙌
+$$
