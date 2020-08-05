@@ -70,7 +70,7 @@ $$f(k;p_0^*) = \begin{cases} p_0^* & \text{if }k=1, \\\\
 
 renders as
 
-$$
+$$f(k;p_0^*) = \begin{cases} p_0^* & \text{if }k=1, \\\\
 1-p_0^* & \text {if }k=0.\end{cases}$$
 
 ### Diagrams
