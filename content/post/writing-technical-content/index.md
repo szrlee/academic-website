@@ -253,19 +253,19 @@ renders as
 
 ### Asides
 
-Academic supports a [shortcode for asides](https://sourcethemes.com/academic/docs/writing-markdown-latex/#alerts), also referred to as *notices*, *hints*, or *alerts*. By wrapping a paragraph in `{{%/* alert note */%}} ... {{%/* /alert */%}}`, it will render as an aside.
+Academic supports a [shortcode for asides](https://wowchemy.com/docs/writing-markdown-latex/#callouts), also referred to as *notices*, *hints*, or *callouts*. By wrapping a paragraph in `{{%/* callout note */%}} ... {{%/* /callout */%}}`, it will render as an aside.
 
 ```markdown
-{{%/* alert note */%}}
+{{%/* callout note */%}}
 A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-{{%/* /alert */%}}
+{{%/* /callout */%}}
 ```
 
 renders as
 
-{{% alert note %}}
+{{% callout note %}}
 A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-{{% /alert %}}
+{{% /callout %}}
 
 ### Spoilers
 
@@ -283,7 +283,7 @@ renders as
 
 ### Icons
 
-Academic enables you to use a wide range of [icons from _Font Awesome_ and _Academicons_](https://sourcethemes.com/academic/docs/page-builder/#icons) in addition to [emojis](https://sourcethemes.com/academic/docs/writing-markdown-latex/#emojis).
+Academic enables you to use a wide range of [icons from _Font Awesome_ and _Academicons_](https://wowchemy.com/docs/page-builder/#icons) in addition to [emojis](https://wowchemy.com/docs/writing-markdown-latex/#emojis).
 
 Here are some examples using the `icon` shortcode to render icons:
 
